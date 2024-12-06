@@ -1,0 +1,7 @@
+// .vscode/settings.json
+{
+    "playdate-debug.sdkPath": "/home/fred/Playdate/SDK"
+    //"playdate-debug.sourcePath": "/path/to/MyGame/source",
+    //"playdate-debug.outputPath": "/path/to/MyGame",
+    //"playdate-debug.productName": "My Game"
+  }

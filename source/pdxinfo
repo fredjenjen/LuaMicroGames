@@ -1,0 +1,7 @@
+name=game
+author=FredCo
+description=description of game.
+bundleID=com.fred.game
+imagePath=system/
+version=1.0
+buildNumber=1
